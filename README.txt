@@ -1,4 +1,3 @@
-Kevin lane
 Semantics Analyzer
 
 This is my parser which tests for both semantic and syntactic correctness
